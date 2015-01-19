@@ -3,6 +3,7 @@ package com.gsposito.gae;
 import com.googlecode.objectify.Objectify;
 import com.googlecode.objectify.ObjectifyFactory;
 import com.googlecode.objectify.ObjectifyService;
+import com.gsposito.gae.demo.Guest;
 
 public class ObjectifyAppServices {
 

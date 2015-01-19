@@ -1,4 +1,4 @@
-package com.gsposito.gae;
+package com.gsposito.gae.demo;
 
 import java.util.List;
 

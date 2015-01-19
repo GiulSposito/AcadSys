@@ -5,6 +5,6 @@
 
 app.controller('indexController',
     function indexController($scope){
-        $scope.helloAngular = '!angular working!';
+        $scope.helloAngular = '[Working]';
     }
 );

@@ -36,5 +36,12 @@ var app = angular.module('app',['ngRoute'])
                 templateUrl: 'view/addView/addView.html',
                 controller: 'addViewController'
             }
-        );
+        ).when('/home',
+            {
+                templateUrl: 'view/home/homeView.html',
+                controller: 'addViewController'
+            }
+        ).otherwise({
+                redirectTo:'/demo/demoApp.html'
+            });
     });

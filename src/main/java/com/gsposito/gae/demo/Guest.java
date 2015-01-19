@@ -1,4 +1,4 @@
-package com.gsposito.gae;
+package com.gsposito.gae.demo;
 
 import com.googlecode.objectify.annotation.Entity;
 import com.googlecode.objectify.annotation.Id;
